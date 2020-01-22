@@ -18,9 +18,11 @@ Modes: There will be two modes to operate the lock. In mode 1 the user can store
 
 Sample pattern: The pattern will consist of the 4 digits.
 
+
  
+ ![project](https://user-images.githubusercontent.com/48995708/72919892-7400d880-3d72-11ea-84f6-5577ddcd8491.jpg)
 
-
+                                         
                                                               
 
 Secondary Part - 
