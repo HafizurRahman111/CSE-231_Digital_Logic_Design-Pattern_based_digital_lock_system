@@ -12,7 +12,7 @@ Output : There will be two types of displays.
 
 Display 1 : Any input given by the users through keypad will be displayed here. at a time 4 values must be displayed. If more values are provided by the user always the oldest value must be removed to accommodate the latest value. It is mandatory to use 7 segments for this purpose
 
-Display 2: If the pattern is correct the result will be displayed in this display. The result can be just a letter printed on the 7 segments (O/N).
+Display 2 : If the pattern is correct the result will be displayed in this display. The result can be just a letter printed on the 7 segments (O/N).
 
 Modes : There will be two modes to operate the lock. In mode 1 the user can store a specific pattern. In mode 2, the user can input a pattern that will be matched with the stored pattern. 
 
