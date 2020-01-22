@@ -54,3 +54,9 @@ Works :
       d. K-map
 
       e. simplified function
+      
+      
+      
+  Prohject is divided into two parts.
+  1. Combinational Part
+  2. Sequential Part
