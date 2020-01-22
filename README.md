@@ -21,7 +21,7 @@ Sample pattern: The pattern will consist of the 4 digits.
  
 
 
-                                                              Block Diagram of the System
+                                                              
 
 Secondary Part - 
 
@@ -42,14 +42,12 @@ Works :
 
 2. Detail design 
 
-                a. Specification with blocks
+      a. Specification with blocks
 
-                b. Truth Table
+      b. Truth Table
 
-                c. Canonical form of functions   
+      c. Canonical form of functions   
 
-                d. K-map
+      d. K-map
 
-                e. simplified function
-
-
+      e. simplified function
