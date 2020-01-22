@@ -2,7 +2,7 @@
 Pattern based digital lock system is the software and hardware based project of my undergraduate life.This project is related to digital logic design course.
 
 
-Title: Pattern based digital lock system
+## Title: Pattern based digital lock system
 
 Primary Part - 
 
