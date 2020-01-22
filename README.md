@@ -2,7 +2,7 @@
 Pattern based digital lock system is the software and hardware based project of my undergraduate life.This project is related to digital logic design course.
 
 
-## Title: Pattern based digital lock system
+## Title : Pattern based digital lock system
 
 ###### Primary Part - 
 
@@ -22,7 +22,8 @@ Sample pattern : The pattern will consist of the 4 digits.
  
  ![project](https://user-images.githubusercontent.com/48995708/72919892-7400d880-3d72-11ea-84f6-5577ddcd8491.jpg)
 
-                                         
+                    
+                                       Block Diagram of the System
                                                               
 
 ###### Secondary Part - 
